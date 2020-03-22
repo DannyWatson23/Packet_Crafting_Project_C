@@ -14,6 +14,8 @@
 #include <linux/if_packet.h>
 #define zero(ifreq_a) memset(&ifreq_a, 0, sizeof(ifreq_a))
 
+#define test "test"
+
 //char POLY1 = 0x04C11DB7;
 //char POLY2 = 0xEDB88320;
 //char POLY3 = 0xDB710641;
