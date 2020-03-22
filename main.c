@@ -20,13 +20,13 @@
 //char POLY2 = 0xEDB88320;
 //char POLY3 = 0xDB710641;
 //char POLY4 = 0x82608EDB;
-char *if_name = "ens38";
-char DESTMAC0 = 0x44;
-char DESTMAC1 = 0x8A;
-char DESTMAC2 = 0x5B;
-char DESTMAC3 = 0x6E;
-char DESTMAC4 = 0xEE;
-char DESTMAC5 = 0x89;
+char *if_name = "ens33";
+char DESTMAC0 = 0x5C;
+char DESTMAC1 = 0xB9;
+char DESTMAC2 = 0x01;
+char DESTMAC3 = 0x7C;
+char DESTMAC4 = 0x5A;
+char DESTMAC5 = 0x53;
 int total_length = 0;
 
 #define ETH_SIZE 1512
